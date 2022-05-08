@@ -1,4 +1,4 @@
-# Camp CyberCure: It Begins
+# Camp CyberCure: It Begins [328 Points]
 
 Given a drawing of the satelitte view of a store and ts unit number, I am tasked to find the store's plus code.
 
