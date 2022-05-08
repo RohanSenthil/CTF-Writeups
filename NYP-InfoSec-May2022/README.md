@@ -2,16 +2,16 @@
 Writeups for the challenges I solved during NYP InfoSec CTF held on May 2022.
 
 ## Categories
-* [Camp CyberCure](Camp-CyberCure)   
-* [Programming](Programming)   
-* [Web](Web)   
-* [Reverse](Reverse)   
-* [Pwn](Pwn)   
-* [OSINT](OSINT)   
-* [Miscellaneous](Miscellaneous)   
-* [Forensics](Forensics)   
-* [Cryptography](Cryptography)   
-* [Networking](Networking)   
+* [Camp CyberCure](/Categories/Camp-CyberCure)   
+* [Programming](/Categories/Programming)   
+* [Web](/Categories/Web)   
+* [Reverse](/Categories/Reverse)   
+* [Pwn](/Categories/Pwn)   
+* [OSINT](/Categories/OSINT)   
+* [Miscellaneous](/Categories/Miscellaneous)   
+* [Forensics](/Categories/Forensics)   
+* [Cryptography](/Categories/Cryptography)   
+* [Networking](/Categories/Networking)   
  
 ## Results
 ![image](img/results.png)
