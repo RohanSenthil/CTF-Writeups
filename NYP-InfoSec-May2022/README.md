@@ -15,4 +15,4 @@ Writeups for the challenges I solved during NYP InfoSec CTF held on May 2022.
  
 ## Results
 ![image](img/results.png)
-* Placed 3rd in the Year 1 Category
+* Placed 3rd in the Year 1 + PFP Category
