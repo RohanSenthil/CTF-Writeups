@@ -2,7 +2,7 @@
 Writeups for the challenges I solved during NYP InfoSec CTF held on May 2022.
 
 ## Categories
-* [Camp CyberCure](./Categories/Camp-CyberCure)   
+* [Camp CyberCure](./Categories/Camp_CyberCure)   
 * [Programming](./Categories/Programming)   
 * [Web](./Categories/Web)   
 * [Reverse](./Categories/Reverse)   
