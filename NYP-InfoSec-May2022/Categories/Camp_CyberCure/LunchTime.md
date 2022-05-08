@@ -6,12 +6,12 @@ Given an image of a restaurant and the general location (near Jurong East MRT), 
 
 After searching around Jurong East MRT on goolge maps, I decided to bruteforce the zip file password instead.
 
-1. Using crunch I generated a wordlist for all 6 digit numbers (since all postal codes in singapore are 6 digits)   
+1. Using **crunch** I generated a wordlist for all 6 digit numbers (since all postal codes in singapore are 6 digits)   
 ```
 crunch 6 6 -t %%%%%% -o postal.txt
 ```
 
-2. Dictionary attack using fcrackzip    
+2. Dictionary attack using **fcrackzip**   
 ```
 fcrackzip -v -u -D -p postal.txt flag_restaurant.zip
 ```
