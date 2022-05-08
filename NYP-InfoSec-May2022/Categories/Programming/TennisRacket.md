@@ -16,7 +16,7 @@ nc tennis1.nypinfsecctf.tk 8010
    
 * A file called "flag" is found, thought it was a directory at first but navigating to it gives errors so this leads me to believe that it was a file instead of a directory.           
 
-3. Open flag file to obtain flag
+3. List contents of flag file to obtain flag
 ```
 (file->list "flag")
 ```
