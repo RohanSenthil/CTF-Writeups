@@ -58,7 +58,7 @@ int main(int argc, char **argv){
 ## Solution
 
 1. When connecting to the server, we are prompted to input something. Since the challenge description hints at a buffer overflow, we will try that.
-2. Inspecting the code,```user_input``` is defined as a char array of size 160. When getting the user input, only the first 160 characters are read, hence a buffer overflow will not work here. However, the ```user_input``` is later passed through the ```vuln()`` function/
+2. Inspecting the code,```user_input``` is defined as a char array of size 160. When getting the user input, only the first 160 characters are read, hence a buffer overflow will not work here. However, the ```user_input``` is later passed through the ```vuln()``` function/
 3. Inspecting the ```vuln()``` function, we realise that ```user_input``` is copied to ```buf```, a char array of size 128. ```strcpy()```  returns a pointer to the destination string dest. Thus the output printed will be that stored in ```buf```.
 ```
 void vuln(char *input){
