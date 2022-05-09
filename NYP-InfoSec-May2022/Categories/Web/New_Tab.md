@@ -6,7 +6,7 @@ http://newtab.nypinfsecctf.tk
 
 ## Solution
 
-1. Visti web page and Ctrl + U to View Page Source
+1. Ctrl + U to View Page Source
 2. Ctrl + F to open search bar
 3. Search for flag format, NYP{
 ```
