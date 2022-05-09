@@ -9,3 +9,6 @@ the one in the drawing.
 
 I then searched up the store unit number and the MRT station on google, found out it was Giant at Kranji MRT station and obtained its plus code
 from google maps.
+```
+Flag: NYP{CQF6+XJ}
+```
