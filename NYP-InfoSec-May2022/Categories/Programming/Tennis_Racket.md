@@ -18,5 +18,8 @@ nc tennis1.nypinfsecctf.tk 8010
 
 3. List contents of flag file to obtain flag
 ```
-(file->list "flag")
+(file->list "flag")    
+```
+```
+Flag: NYP{lisp_or_scheme_idk_anymore}
 ```
