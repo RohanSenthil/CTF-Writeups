@@ -37,6 +37,9 @@ print(chars_num)
 ```
 87 + chars_num[i] = 151
 # Therefore chars_num[i] = 151 - 87 = 64 = Y (base on chars_num dictionary)
-# Thus second letter of the string ```flag``` is 'Y'.
+# Thus second letter of the string flag is 'Y'.
 ```
 5. Repeat this process until the flag is obtained. Flag length is same as list length of the intended output.
+```
+Flag: NYP{R3v3rs3_tH3_nUms}
+```
