@@ -6,7 +6,7 @@ Writeups for the challenges I solved during NYP InfoSec CTF held on May 2022.
 * [Programming](./Categories/Programming)   
 * [Web](./Categories/Web)   
 * [Reverse](./Categories/Reverse)   
-* [Pwn](./Categories/Pwn)   (IN PROGRESS)
+* [Pwn](./Categories/Pwn)   
 * [OSINT](./Categories/OSINT)   (IN PROGRESS)
 * [Miscellaneous](./Categories/Miscellaneous)   (IN PROGRESS)
 * [Forensics](./Categories/Forensics)   (IN PROGRESS)
