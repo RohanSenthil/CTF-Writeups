@@ -23,7 +23,7 @@ Connection: close
 
 Upgrade-Insecure-Requests: 1
 ```
-2. Once intercepted, we change the host from research.nypinfsecctf.tk/ to topsecret.vaccine.dev since this is suggested in the challenge description.
+2. Once intercepted, we change the host from research.nypinfsecctf.tk to topsecret.vaccine.dev since this is suggested in the challenge description.
 ```
 Host: topsecret.vaccine.dev
 ```
@@ -47,7 +47,7 @@ Content-Length: 25
 ```
 4. ```/f/Evommgb5azlyCaYMDHW57Q``` looks like a path so we add it to the back of research.nypinfsecctf.tk    
 
-5. We then visit research.nypinfsecctf.tk/f/Evommgb5azlyCaYMDHW57Q in our web browser (do not need proxy and burp suite anymore), to obtain the flag.
+5. We then visit ```research.nypinfsecctf.tk/f/Evommgb5azlyCaYMDHW57Q``` in our web browser (do not need proxy and burp suite anymore), to obtain the flag.
 ```
 Flag: NYP{h0st_h3ad3r_f0rg1ng}
 ```
