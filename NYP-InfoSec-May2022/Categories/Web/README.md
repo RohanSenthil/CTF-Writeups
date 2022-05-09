@@ -5,6 +5,7 @@
 * [Script Kiddies](Script_Kiddies.md) [183]
 * [Never Gonna Give You Up](Never_Gonna_Give_You_Up.md) [379]
 * [Bad Vaccine](Bad_Vaccine.md) [413]    
+* [Silver Head](Silver_Head.md) [442]
 * [Research Materials](Research_Materials.md) [499]    
 
 ## Unsolved
