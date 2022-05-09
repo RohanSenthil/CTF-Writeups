@@ -25,3 +25,6 @@ unzip -P 609079 flag_restaurant.zip
 ```
 cat flag_restaurant.txt
 ```
+```
+Flag: NYP{S0m3_g00d_f00d_on_THE_WAY}
+```
