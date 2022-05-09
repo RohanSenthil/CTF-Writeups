@@ -34,3 +34,6 @@ unzip -P 97475221 flag_hp.zip
 ```
 cat flag_hp.txt
 ```
+```
+Flag: NYP{0h-0h-Armadeussss}
+```
