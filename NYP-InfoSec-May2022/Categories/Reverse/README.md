@@ -1,7 +1,7 @@
 # Reverse Overview
 
 ## Solved
-* [Reverse Numbers](Reverse_Number.md) [359]    
+* [Reverse Numbers](Reverse_Numbers.md) [359]    
 
 ## Unsolved
 * ezPython [489]
