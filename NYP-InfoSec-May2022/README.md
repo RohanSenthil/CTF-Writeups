@@ -10,7 +10,7 @@ Writeups for the challenges I solved during NYP InfoSec CTF held on May 2022.
 * [OSINT](./Categories/OSINT)   
 * [Miscellaneous](./Categories/Miscellaneous)   (IN PROGRESS)
 * [Forensics](./Categories/Forensics)   (IN PROGRESS)
-* [Cryptography](./Categories/Cryptography)   (IN PROGRESS)
+* [Cryptography](./Categories/Cryptography)   
 * [Networking](./Categories/Networking)   
  
 ## Results
