@@ -13,7 +13,7 @@ Attached is the packet capture.
 6. We search for the pdf file by applying the filter ```frame contains "%PDF-"```
 7. There is only one packet, we right click that packet and select follow TCP stream.
 8. Change from show data as ASCII to show data as Raw.
-9. Then click save as, name the file with a .pdf extension and save it any folder.
+9. Then click save as, name the file anything and save it any folder.
 10. When trying to open the pdf file we just saved, we are prompted with a password, by using the password we got from the ftp packet captures we are able to view the pdf file contents which contains the flag.
 ```
 Flag: NYP{wir3sh4rk_exp0rt_0bjects}
