@@ -11,7 +11,7 @@ Writeups for the challenges I solved during NYP InfoSec CTF held on May 2022.
 * [Miscellaneous](./Categories/Miscellaneous)   (IN PROGRESS)
 * [Forensics](./Categories/Forensics)   (IN PROGRESS)
 * [Cryptography](./Categories/Cryptography)   (IN PROGRESS)
-* [Networking](./Categories/Networking)   (IN PROGRESS)
+* [Networking](./Categories/Networking)   
  
 ## Results
 ![image](img/results.png)
