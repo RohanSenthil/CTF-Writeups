@@ -1,4 +1,4 @@
-# Octupus Under The Sea [50 Points]
+# Octupus under the sea [50 Points]
 The octopus under the sea gave me this: 116 131 120 173 123 105 101 137 117 103 124 117 120 125 44 175
 
 ## Solution
